@@ -3,5 +3,7 @@
 Framework                                          | Description
 ---------------------------------------------------|-------------
 [Hibernate](https://github.com/shamy1st/hibernate) | 
+[Akka](https://github.com/shamy1st/akka)           | 
+[Kafka](https://github.com/shamy1st/kafka)         | 
 
 ## Ref
